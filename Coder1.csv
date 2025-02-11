@@ -1,0 +1,2297 @@
+﻿rid,treatment,number,trait,age,gender,sexuality,"race, ethnicity, nationality",education,religion,family role,occupation,political views,hobbies and interests,physical body,"personality, behaviors, traits",ambiguous,none,other
+64af4845-b796-197b-e753-8cd8b8d58606,neighbor,trait1,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait10, a senior citizen,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6f1b-4fc9-7dde-43fb-07d110a9425e,coworker,trait5, fast learner,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48ac-2bd4-e57a-753c-0a9a50f83e6a,friend,trait4, Good moral code,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait8,a musician,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait4,a parent,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait5,a pet parent,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait9,a retail worker,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait6,a spouse,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait3,a student,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait1,a woman,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait9,Able to have fun not always serious,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait9,Absolute ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4892-0026-d304-14c6-bf0ee0ca010e,friend,trait2,Acceptance,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait10,accepting ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d5-d253-b1e5-d37e-6c5e4c71c0c1,coworker,trait4,accurate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait7,Actively participating in all indoor and outdoor activities ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7385-038d-4139-479f-aefed21d11c4,general,trait5,Adventure ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479e-58a1-fb9f-6b6a-ae4e012deb56,coworker,trait2,Adventurous,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait8,Adventurous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait2,Age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af5d7e-0253-78d6-fd9b-66ff30f7a5fa,neighbor,trait1,Age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af654f-2bfa-7795-6da7-b2be8593d728,neighbor,trait1,age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af5ff8-a5ee-243c-b49a-9e24f4e85d95,friend,trait4,age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait4,Age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4869-d30b-4fd7-6d18-6fd76c4cc0c3,friend,trait1,Age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait1,Age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af6515-7c53-837a-d151-94feba734053,specific,trait1,Age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4797-6a54-04b7-2231-e1601df0f20c,general,trait3,Age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait2,age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait3,Age ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4967-ce41-1144-2e16-05be4e3c9328,neighbor,trait1,Age Group,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait3,Agreeableness ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait1,alive,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait8,alone,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4a0c-b70e-52f7-2f15-648185412c3a,neighbor,trait1,Alone ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait5,amazing ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait5,Ambition,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait2,American,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait1,American,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait1,American ,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait6,americanness,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af4879-eb36-b307-41e9-12663d95ba72,coworker,trait4,Amicable.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait2,an accountant,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af5ff8-c8e9-901a-afe1-d382824e2a79,general,trait7,an outdoorswoman,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait10,animal lover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait9,animal lover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait7,Anxious,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait2,Anxious ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6a40-a465-e0c4-ad12-e3649865c889,coworker,trait4,Are accepting and supporting of others,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6a40-a465-e0c4-ad12-e3649865c889,coworker,trait3,Are qualified for the positions they have,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af49f3-801e-4d71-de06-cdb7a4edf99f,neighbor,trait2,Are they clean,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7d3a-8cfd-c62b-fdf0-989d8c0460ef,neighbor,trait1,Are they crazy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait3,Are they hard workers ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7d3a-8cfd-c62b-fdf0-989d8c0460ef,neighbor,trait2,Are they loud all day,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait5,Are they married ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af49f3-801e-4d71-de06-cdb7a4edf99f,neighbor,trait1,Are they quiet ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-801e-4d71-de06-cdb7a4edf99f,neighbor,trait6,Are they responsible ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-801e-4d71-de06-cdb7a4edf99f,neighbor,trait7,Are they self sufficient or needy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-801e-4d71-de06-cdb7a4edf99f,neighbor,trait5,Are they sex offenders,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af64e5-5950-df6c-c07d-445f2f9faeb1,neighbor,trait2,Around my age ,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af7385-038d-4139-479f-aefed21d11c4,general,trait3,Art ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait2,Artist,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait9,Artistic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait10,Artistic,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait8,Arts,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait8,Astute ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait10,Athletic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait4,athletic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait8,Athletic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd556-f2d8-6f04-7066-80a56d03d015,coworker,trait1,Attention,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait4,Attention ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64afd556-f2d8-6f04-7066-80a56d03d015,coworker,trait2,Attitude,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait2,Attitude ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4786-cf86-1aa9-3354-14ff79cd925d,friend,trait5,attractive ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af5c09-08a3-f425-e964-8804fe5bbfd3,specific,trait5,Aunt,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait10,Authentic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait7,Authentic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait8,Aware,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e05-15aa-ab38-71a3-027a1fb7268b,general,trait3,awesome,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait6,Bad father,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait8,Bad son,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f42-016f-64f8-8eae-8639295e2cc4,coworker,trait1,Balance ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait3,Balding,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af725e-6579-d9a4-8b7e-1142de686b63,neighbor,trait3,"Be comfortable, around each other .",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af5ee3-8098-15c3-7de0-006aaa932325,specific,trait1,beaultiful,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait10,Beautiful ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait4,Beauty ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af73b4-c7ec-8d80-23b4-a247a93ef43c,general,trait5,Beauty ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af73b4-c7ec-8d80-23b4-a247a93ef43c,general,trait7,Being a Mother ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait3,BELIEVE IN GOD AND JESUS,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait7,Believer,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait8,BELOVED,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af47f4-28e6-fea8-ff62-d870eef4fc50,coworker,trait2,Best ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait5,Bestie,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait9,bisexaul,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+64af61ab-4a29-5b50-4712-668849c136f5,general,trait2,bisexual,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+64afe6a3-aa8c-22fb-0369-29038f03de0f,general,trait2,Black,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af5c09-08a3-f425-e964-8804fe5bbfd3,specific,trait1,Bookworm,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-c98b-950c-33d1-8e3b7c26017e,friend,trait2,brains,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6964-fdec-ee32-620b-fe4e0e72fe94,general,trait1,Brains,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6964-fdec-ee32-620b-fe4e0e72fe94,general,trait6,Brains,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait7,Brave,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait7,Broke,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait5,buetiful,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait9,Calm,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait3,Calm,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait5,Calm,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait8,Can see multiple perspectives ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4831-cf25-f482-4a71-6b189cddd1ec,coworker,trait1,Capable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7d60-a27d-e72c-e7fb-9b016fb33657,specific,trait5,Car,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af48b5-ddf5-2900-f88e-45ef0e208445,friend,trait3,care,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait5,Care,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait10,care for others,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait7,Career ,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af674b-3fd3-3039-10ee-b1c4c72ddae0,friend,trait4,Career goals,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4839-121f-7653-a558-26c1978168e8,neighbor,trait2,Careful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af64e5-5950-df6c-c07d-445f2f9faeb1,neighbor,trait1,Cares for the environment ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait8,Carimg,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af481a-7249-7534-93b0-49ce135fbd34,neighbor,trait3,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait3,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6479-44b3-38e7-66ee-901ee4dca923,neighbor,trait3,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4792-e438-df90-c5d1-34f8a413a859,neighbor,trait6,caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af746c-18bd-f527-bc2e-143df62e5a31,friend,trait2,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af746c-18bd-f527-bc2e-143df62e5a31,friend,trait4,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait6,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d6f-738c-4331-df24-6981b9031770,specific,trait2,caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait3,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f3-bc71-2b6a-14f3-165e8efeeb69,specific,trait5,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait5,caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait2,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait2,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait4,caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait7,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait3,Caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait6,caring,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait3,caring ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ce4-90a9-1a0e-cd0a-09a2f6bb2d29,friend,trait3,Caring ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6b19-0eff-2013-27e2-2a53c8d47f63,specific,trait8,Caring ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait3,Caring ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait6,Caring ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait10,Caring and a legal immigrant,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait9,Cat person,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait7,Cautious,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait5,Character ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af65fc-fc24-7b1f-d7b2-027cbccc467f,general,trait2,Character ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait4,Charisma,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d92-7309-83d7-78a1-fe90ca4a3c4e,coworker,trait5,Charismatic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4900-56d7-e630-c68c-e1b00884c10c,friend,trait4,Charismatic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait10,Charitable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait7,Cheerful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d5-6512-954b-ed87-365fb6977bc6,neighbor,trait1,Child molsters,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait3,Children,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af654f-2bfa-7795-6da7-b2be8593d728,neighbor,trait3,children,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af476a-6ca0-dd7c-3ec6-b95c3b64952f,neighbor,trait1,Children ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait4,Chivalry,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait2,christian,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af479e-58a1-fb9f-6b6a-ae4e012deb56,coworker,trait4,Christian,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af485b-72de-6d3f-42db-c272d348fdba,friend,trait6,Christian,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait4,Christian,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait1,Christian,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait10,Christian ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait1,Christian ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait2,Christian believer,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait8,Cincinnati,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af486a-b3a2-906a-8745-f1ce41c51cfe,neighbor,trait2,Clean,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ad2-502a-1603-4c71-e3fd4aee61a4,neighbor,trait4,Clean,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5e15-c51c-9a16-e0f0-23c67870a59b,coworker,trait3,clean & sober,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47b8-8c71-c408-8075-b411b7f5b2b1,neighbor,trait3,Clean people,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a0c-b70e-52f7-2f15-648185412c3a,neighbor,trait4,Cleanliness ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait7,Cleanly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait7,Clever,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait3,Close by,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af47f6-4ba4-18db-6d4b-2395820dca81,friend,trait4,Close in proximity ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait9,Cocker,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait10,Coffee,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait2,Comedy ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af5e5a-f6ad-afd1-faed-6de97222fb61,friend,trait2,Comfort,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af7586-09d7-d31b-9a1a-f3006a0f9f2f,neighbor,trait7,Comfortable to be around,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4ac5-c0e3-5c04-6c51-7033f0320dcd,coworker,trait6,Commitment ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait1,Common interests ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4869-d30b-4fd7-6d18-6fd76c4cc0c3,friend,trait2,Common intrests,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait5,Common Sense,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af485b-72de-6d3f-42db-c272d348fdba,friend,trait7,Common sense,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af682b-12a9-9121-94ca-1c4d836f0d90,general,trait2,Common sense ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48cf-7e34-51b2-3028-bc8cad1ecac4,coworker,trait1,Common values,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47c8-3d84-1f92-5d79-7317f7db239a,coworker,trait5,communication,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ef5-9aa8-d462-da75-44f4c1634b9d,coworker,trait4,communicative,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe365-56e9-44a5-ea0b-98eb1b50875d,neighbor,trait5,community involvment,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5eec-2e74-d863-3989-96a1d37385ec,friend,trait2,companionship,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait4,Compassate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait3,Compassion ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait9,Compassionate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait4,Compassionate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait5,Compassionate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait1,Compassionate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait4,Compassionate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6b19-0eff-2013-27e2-2a53c8d47f63,specific,trait2,Compassionate ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait6,Compassionate ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait9,Compassionate ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait7,Compassionate ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait3,Compassionate ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait5,compatible,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4b16-bb7a-ceda-7d5f-03086a7c5c1f,friend,trait2,Compatible schedules/availability ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af47c8-3d84-1f92-5d79-7317f7db239a,coworker,trait2,competence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait9,competent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ac4-c9f2-b9cd-d214-04f7b7f4d639,specific,trait3,Competitive ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait7,Competitive ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait10,competitive ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait8,complainer,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait6,Concern,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4855-b939-85b7-d1fe-233895d6abe5,friend,trait4,Confidence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait3,Confidence ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait4,Confident,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait4,confident,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait10,confident,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait4,Confident ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait7,Conservative,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait8,Conservative,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af5ea4-08f4-2c0b-de7a-c27c16e9c4ec,neighbor,trait2,Conservative behavior,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait9,considerate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait4,Considerate ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait6,Considerate ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait10,Considering ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d92-7309-83d7-78a1-fe90ca4a3c4e,coworker,trait3,Consistent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait9,Constantly growing ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait8,Conversationalist ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d8a-2659-bad9-3234-72a26df5ba9c,neighbor,trait2,conversations,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait4,cooking,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait4,cool,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait2,Cool,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ad2-502a-1603-4c71-e3fd4aee61a4,neighbor,trait6,Cool,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait9,cool,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e05-15aa-ab38-71a3-027a1fb7268b,general,trait4,cool,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4792-e438-df90-c5d1-34f8a413a859,neighbor,trait1,couple,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait4,Courteous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait5,Craftsman ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait3,Crazy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait1,creative,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait9,Creative,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait7,Creative,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait1,Creative,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait5,creative,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7de2-33f4-8900-080f-d8d5ff21f178,coworker,trait1,Creative ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait7,Creative ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait2,Creative ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4833-c62b-b52a-678b-ae9d7c5216c4,neighbor,trait1,Criminal background ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait2,Criminal record ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af69a1-2993-0bec-8a7d-8750602e8fd5,neighbor,trait1,Criminal record ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait6,Critical Thinking,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait6,Cuddly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait6,Culture,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait10,Curious,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait7,Curious,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait6,Curious,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait9,Curious ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait7,Curious ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait9,Curious ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait4,Cute,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait5,Cute,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait4,cute,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait4,cute,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait7,cute,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af7385-038d-4139-479f-aefed21d11c4,general,trait1,Dancing ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait2,Daughter,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait7,Decent husband,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af64e5-5950-df6c-c07d-445f2f9faeb1,neighbor,trait4,Decorative ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af686d-9521-0c2c-3eb7-262d5e1e8988,coworker,trait5,Dedicated,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait1,Dedicated ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6a40-a465-e0c4-ad12-e3649865c889,coworker,trait1,Dedicated to doing the best job they can ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait6,Dedication to health,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4def-1b72-7648-6c97-8043502e8184,coworker,trait1,Dependable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait2,Dependable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait10,Dependable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait3,Dependable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-b4a8-427c-27c2-2b9893b1ebc2,general,trait1,dependable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait7,dependable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7de2-33f4-8900-080f-d8d5ff21f178,coworker,trait2,Dependable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ce4-90a9-1a0e-cd0a-09a2f6bb2d29,friend,trait2,Dependable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait5,Dependable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait7,Dependable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait9,Dependent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait4,depressed,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait9,Depressed,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait6,Depressed,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4bb7-138c-25aa-ad1c-22d04c36cf57,coworker,trait2,Detailed ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait4,Determined ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait6,diabetic,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait7,Different ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait3,Dignity,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait8,Diligent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af73b4-c7ec-8d80-23b4-a247a93ef43c,general,trait6,Dimples,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait9,disability advocate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait7,disabled,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait3,Disabled ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait2,Do they believe in Jesus ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait4,Do they care for others ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait6,Do they have children ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af68a1-d76c-2d72-8a85-45e436c82c3e,neighbor,trait1,Do they have children?,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af49f3-801e-4d71-de06-cdb7a4edf99f,neighbor,trait3,Do they have kids,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait6,Do they love pets.,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af68a1-d76c-2d72-8a85-45e436c82c3e,neighbor,trait5,Do they party all the time?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-801e-4d71-de06-cdb7a4edf99f,neighbor,trait4,Do they smoke/use recreational drugs,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af68a1-d76c-2d72-8a85-45e436c82c3e,neighbor,trait3,Do they work?,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af5ff8-a5ee-243c-b49a-9e24f4e85d95,friend,trait6,does the person smoke or drink,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait5,doesnt backbite,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait6,doesnt complain,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe6a3-aa8c-22fb-0369-29038f03de0f,general,trait4,Dog,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait10,Dog dad ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait5,Don't know ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait8,Don'tknow,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait9,dont know,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5cc7-3a86-7e3a-8a07-9d9dde0961e8,neighbor,trait2,Door,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5cc7-3a86-7e3a-8a07-9d9dde0961e8,neighbor,trait3,Doorbell,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait4,Down to earth,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait4,Dreamer ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d9-f7f6-d1e3-43e3-8afcfab95087,coworker,trait3,Ease,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47b0-9021-5022-768d-b91f29f7a5d8,coworker,trait3,Easy to get along with ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7586-09d7-d31b-9a1a-f3006a0f9f2f,neighbor,trait6,Easygoing,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait6,Easygoing,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait2,Eclectic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait10,educated,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait3,Educated,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait10,Educated ,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64af46c3-9044-43dc-325d-4b64f5477846,neighbor,trait5,education,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64af654f-2bfa-7795-6da7-b2be8593d728,neighbor,trait4,education,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait5,Education,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait7,education,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64afe365-56e9-44a5-ea0b-98eb1b50875d,neighbor,trait4,education level,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64af674b-3fd3-3039-10ee-b1c4c72ddae0,friend,trait5,Educational background or major,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait4,efficient,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7aa5-84fb-70b2-ffe9-17e1b494a5be,coworker,trait6,Efficient ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5eec-2e74-d863-3989-96a1d37385ec,friend,trait4,emapathy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait9,Emotional,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af696c-86ba-0996-dc27-9b4360bc4461,coworker,trait1,Empathetic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait3,empathetic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait4,Empathetic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait2,Empathetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait6,empathetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait3,Empathetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait1,Empathetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait5,Empathetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait6,empathetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait2,Empathetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait5,Empathic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6df1-2fac-a26e-323b-c74ab6ec9476,coworker,trait4,Empathy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait2,Empathy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait7,Empathy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait1,Emphatic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait3,Employed,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af46c3-9044-43dc-325d-4b64f5477846,neighbor,trait7,employment,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait9,Encouragement,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait4,Energetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait10,Energetic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af635c-a42a-87d7-d73c-fd9eb3ebac9c,general,trait2,Engineering,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af485b-72de-6d3f-42db-c272d348fdba,friend,trait1,Enjoy Baseball games,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af485b-72de-6d3f-42db-c272d348fdba,friend,trait3,Enjoy bowling,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af485b-72de-6d3f-42db-c272d348fdba,friend,trait2,Enjoy Football games,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47c7-7964-6b54-a89f-4501d75410af,friend,trait7,enjoys yoga,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait10,Enough ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait2,entertaining,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait4,Enthusiast,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait5,Entrepreneurial ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait3,ethical,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe667-ae7b-fdd3-dc3f-f7b8b5434a4b,coworker,trait1,ethics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait3,ethics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait4,Ethnicity,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait9,Evil,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d5-6512-954b-ed87-365fb6977bc6,neighbor,trait2,Ex cons,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait9,Excited,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait5,Excited,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait6,exciting,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6188-c51a-86a9-0eb4-35d866c2833e,coworker,trait3,Experience ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait6,Experienced ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait5,Fair,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af674b-3fd3-3039-10ee-b1c4c72ddae0,friend,trait1,Faith,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait3,faithful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait4,Faithful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4792-e438-df90-c5d1-34f8a413a859,neighbor,trait2,family,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait8,Family,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait4,Family,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait3,Family,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait5,family,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af7d60-a27d-e72c-e7fb-9b016fb33657,specific,trait1,Family ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait6,Family ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4797-6a54-04b7-2231-e1601df0f20c,general,trait4,Family ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af674b-3fd3-3039-10ee-b1c4c72ddae0,friend,trait6,Family closeness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait2,Family oriented,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait8,family oriented,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait4,FAMILY ORIENTED,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait8,Family oriented ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d5-d253-b1e5-d37e-6c5e4c71c0c1,coworker,trait3,fast,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait2,Fat,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait9,Father,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait10,Father ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64afd556-f2d8-6f04-7066-80a56d03d015,coworker,trait4,Fear of missing,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait2,Female,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait6,female,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait5,Fit,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait3,focused,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd556-f2d8-6f04-7066-80a56d03d015,coworker,trait3,FOMO,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait9,Food,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4855-b939-85b7-d1fe-233895d6abe5,friend,trait6,Forgiveness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-4a29-2493-e176-097f7a869d23,friend,trait4,forgiving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait9,forward thinker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait6,Forward thinking,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait3,Free,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait2,free,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64afe6a3-aa8c-22fb-0369-29038f03de0f,general,trait1,Freedom,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait8,freindly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait6,Friend,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait2,Friend,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait1,Friend,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af46c3-9044-43dc-325d-4b64f5477846,neighbor,trait2,friendliness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe365-56e9-44a5-ea0b-98eb1b50875d,neighbor,trait1,friendliness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d8a-2659-bad9-3234-72a26df5ba9c,neighbor,trait1,friendliness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5e5a-f6ad-afd1-faed-6de97222fb61,friend,trait1,Friendliness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5da0-2ac0-88e0-8cbb-b2dbcae777d8,neighbor,trait1,Friendliness ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait6,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7aa5-84fb-70b2-ffe9-17e1b494a5be,coworker,trait4,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af686d-9521-0c2c-3eb7-262d5e1e8988,coworker,trait3,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476e-1998-e3e3-3e3e-00ee8108d2c5,coworker,trait1,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48a1-f175-35c7-8317-98d67535c944,neighbor,trait3,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4910-9e46-3416-aad8-e97bb1b61ad0,neighbor,trait2,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af481a-b30b-1386-35db-53f82f3c5272,neighbor,trait2,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47dd-8767-ebc2-2012-2e462ad7294d,neighbor,trait2,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af481a-7249-7534-93b0-49ce135fbd34,neighbor,trait2,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4aa3-00c5-3c68-09ba-cfb111a6ebb4,neighbor,trait3,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476e-7dfc-8217-488c-fffc58640357,neighbor,trait1,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4858-6385-24f6-cbfa-3951c3e6b642,neighbor,trait1,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ad2-502a-1603-4c71-e3fd4aee61a4,neighbor,trait1,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4792-e438-df90-c5d1-34f8a413a859,neighbor,trait3,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6ec5-4f5d-8076-2769-7be6201e982d,friend,trait3,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af78ed-e729-99c8-e7c8-665686c72da6,friend,trait3,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait8,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47dd-1e3d-34b9-a055-1020e8ff1d67,friend,trait1,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af485b-72de-6d3f-42db-c272d348fdba,friend,trait4,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait5,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait7,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait4,friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait4,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait1,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait8,Friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af62a6-e43c-4461-df5c-880fbbcac107,neighbor,trait2,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait4,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6479-44b3-38e7-66ee-901ee4dca923,neighbor,trait5,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476f-a555-ba2f-13d7-16d6d504609a,neighbor,trait1,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait1,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b9c-8085-748a-3af4-8a320de06c02,neighbor,trait1,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476a-6ca0-dd7c-3ec6-b95c3b64952f,neighbor,trait3,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a0c-b70e-52f7-2f15-648185412c3a,neighbor,trait5,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait2,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4830-acb0-b4d8-a182-764f77eb5a6c,friend,trait1,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a47-ceb4-1d30-2ff7-8c98eeab993a,specific,trait2,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6b19-0eff-2013-27e2-2a53c8d47f63,specific,trait6,Friendly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f6-4ba4-18db-6d4b-2395820dca81,friend,trait5,Friendly and outgoing personality ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6e59-f057-e158-8d21-faecc0dd9b60,neighbor,trait3,Friendly but not overly friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait8,Friends,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4786-cf86-1aa9-3354-14ff79cd925d,friend,trait2,friendship,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af73b4-c7ec-8d80-23b4-a247a93ef43c,general,trait4,Friendship ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait2,fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait9,Fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6479-44b3-38e7-66ee-901ee4dca923,neighbor,trait1,Fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4db8-44c0-88ed-4bed-db398a99a520,friend,trait4,Fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait7,Fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait2,fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait1,Fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4830-acb0-b4d8-a182-764f77eb5a6c,friend,trait3,fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47dd-1e3d-34b9-a055-1020e8ff1d67,friend,trait2,fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait4,Fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait5,fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f3-bc71-2b6a-14f3-165e8efeeb69,specific,trait4,Fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait6,fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait10,Fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af64e5-5950-df6c-c07d-445f2f9faeb1,neighbor,trait5,Fun ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479e-58a1-fb9f-6b6a-ae4e012deb56,coworker,trait3,Fun loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait5,Fun loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait3,Funby,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait6,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait1,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4def-1b72-7648-6c97-8043502e8184,coworker,trait5,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6479-44b3-38e7-66ee-901ee4dca923,neighbor,trait2,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4858-6385-24f6-cbfa-3951c3e6b642,neighbor,trait4,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-4a29-2493-e176-097f7a869d23,friend,trait3,funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait1,funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d6f-738c-4331-df24-6981b9031770,specific,trait4,funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait6,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait5,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait1,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af66a1-4702-ba87-bb2c-ea77a9c6bd9f,specific,trait1,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait7,funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait3,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait10,FUNNY,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait5,funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af682b-12a9-9121-94ca-1c4d836f0d90,general,trait6,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait1,Funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait6,funny,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait10,Funny ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait2,funny ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait1,funny ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4879-eb36-b307-41e9-12663d95ba72,coworker,trait5,Funny.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait10,gang,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5cc7-3a86-7e3a-8a07-9d9dde0961e8,neighbor,trait1,Garden,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait2,gay,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait2,Gay,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait2,Gender,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4797-6a54-04b7-2231-e1601df0f20c,general,trait2,Gender,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4a0c-b70e-52f7-2f15-648185412c3a,neighbor,trait3,Gender ,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait5,Generous,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait6,Generous,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af62a6-e43c-4461-df5c-880fbbcac107,neighbor,trait3,Generous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait10,Generous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait10,Generous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6b19-0eff-2013-27e2-2a53c8d47f63,specific,trait4,Generous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait3,Gentle,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4aa2-e012-ac94-64ac-20847af53f8e,friend,trait2,genuine,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4855-b939-85b7-d1fe-233895d6abe5,friend,trait2,Genuine ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait8,Genuine ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476e-1998-e3e3-3e3e-00ee8108d2c5,coworker,trait3,gets along with other people,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af62a6-e43c-4461-df5c-880fbbcac107,neighbor,trait5,Giving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait6,Giving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait5,giving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait5,Giving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait3,giving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait8,Giving ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait9,glutenous,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af7d60-a27d-e72c-e7fb-9b016fb33657,specific,trait7,God ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait3,Good,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f4-28e6-fea8-ff62-d870eef4fc50,coworker,trait3,Good ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ee3-8098-15c3-7de0-006aaa932325,specific,trait3,good ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d9-f7f6-d1e3-43e3-8afcfab95087,coworker,trait4,Good boss,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af485b-72de-6d3f-42db-c272d348fdba,friend,trait5,Good communicator,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait5,GOOD LIFE,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait10,Good listener,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait3,Good listener ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait7,Good listener ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7586-09d7-d31b-9a1a-f3006a0f9f2f,neighbor,trait5,Good natured,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait4,good neighbor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait7,good people,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4792-e438-df90-c5d1-34f8a413a859,neighbor,trait4,good people,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49d8-d323-55b5-d70f-4f2ae1d43ef2,neighbor,trait1,good person,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4830-acb0-b4d8-a182-764f77eb5a6c,friend,trait2,good sense of humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f9-f7eb-daee-8857-07a893754860,coworker,trait1,Good work ethics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4855-b939-85b7-d1fe-233895d6abe5,friend,trait5,Grace,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait8,Grandmother,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait10,Grandparent,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait8,Gravitas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait10,Great,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f4-28e6-fea8-ff62-d870eef4fc50,coworker,trait1,Great ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4879-eb36-b307-41e9-12663d95ba72,coworker,trait1,Great communicator.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait6,Great friend,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ee3-8098-15c3-7de0-006aaa932325,specific,trait2,haappy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait4,Happiness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4cc1-c4f2-27a4-6f31-83ae7de1044a,friend,trait3,Happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait7,happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait6,Happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait5,happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait10,happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait7,happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ac4-c9f2-b9cd-d214-04f7b7f4d639,specific,trait6,Happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait4,Happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait9,happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait7,Happy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a1b-503c-23de-8614-b7941e01a442,coworker,trait2,Hard Work,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ef5-9aa8-d462-da75-44f4c1634b9d,coworker,trait3,hard worker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6f1b-4fc9-7dde-43fb-07d110a9425e,coworker,trait3,Hard worker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47b0-9021-5022-768d-b91f29f7a5d8,coworker,trait4,Hard worker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait10,Hard worker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait10,Hard worker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait9,HARD WORKER,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bb7-138c-25aa-ad1c-22d04c36cf57,coworker,trait1,Hard worker ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait5,Hard worker ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72a9-dc05-8820-3911-c034315296e6,coworker,trait2,Hard Working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait3,hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait4,Hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af633e-7784-78ee-e986-1b46b65d255b,coworker,trait4,Hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4865-fb4a-80c6-1b74-58b375ad57cb,coworker,trait1,Hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4def-1b72-7648-6c97-8043502e8184,coworker,trait4,Hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d6f-738c-4331-df24-6981b9031770,specific,trait7,hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait2,hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait8,hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait3,Hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-b4a8-427c-27c2-2b9893b1ebc2,general,trait2,hard working,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait9,hard working ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af68ee-0956-f11d-c535-2a45265fc6cc,coworker,trait2,Hardwork,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait2,Hardworker ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4848-bd3d-ae0f-b085-08b6fa05fa9b,coworker,trait2,Hardworking,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait4,Hardworking,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6569-177f-8078-2cd1-58dea16f9561,coworker,trait5,Hardworking ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d92-7309-83d7-78a1-fe90ca4a3c4e,coworker,trait1,Hardworking ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait1,Hardworking ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait6,Hardworking ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait7,Having fun,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait7,Health,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af7c93-0867-27e9-ac5a-6d2d9f2ce647,specific,trait3,Health,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4756-02f6-fe50-223f-5a76f1181a9e,general,trait1,Health,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af479b-c98b-950c-33d1-8e3b7c26017e,friend,trait5,healthy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait6,Healthy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4847-7db2-3ed8-ab14-e7ef2557e318,general,trait2,healthy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait10,Healthy ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af6964-fdec-ee32-620b-fe4e0e72fe94,general,trait3,Heart,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait10,heart breaker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait1,height,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af686d-9521-0c2c-3eb7-262d5e1e8988,coworker,trait4,Helpful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4831-cf25-f482-4a71-6b189cddd1ec,coworker,trait3,Helpful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476e-7dfc-8217-488c-fffc58640357,neighbor,trait3,Helpful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait8,Helpful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d6f-738c-4331-df24-6981b9031770,specific,trait6,helpful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait7,Helpful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait6,helpful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72a9-dc05-8820-3911-c034315296e6,coworker,trait4,Helpful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4826-4157-e565-a4fd-ae67be5a4d6a,friend,trait3,Helpful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6b19-0eff-2013-27e2-2a53c8d47f63,specific,trait5,Helpful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait2,Helpful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7667-a5e0-f07b-f4fe-54745ef5641d,neighbor,trait4,Helpfulness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c3-9044-43dc-325d-4b64f5477846,neighbor,trait3,helpfulness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af489f-a59b-e67a-fb54-8142697eaa2b,general,trait2,Hermit,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait3,Hippie ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait4,Hobbies,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af674b-3fd3-3039-10ee-b1c4c72ddae0,friend,trait2,Hobbies & interests,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait4,Homeless,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait8,Homey,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af479e-58a1-fb9f-6b6a-ae4e012deb56,coworker,trait1,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d5-d253-b1e5-d37e-6c5e4c71c0c1,coworker,trait1,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d92-7309-83d7-78a1-fe90ca4a3c4e,coworker,trait2,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48a1-f175-35c7-8317-98d67535c944,neighbor,trait2,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4792-e438-df90-c5d1-34f8a413a859,neighbor,trait5,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4cc1-c4f2-27a4-6f31-83ae7de1044a,friend,trait2,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48b5-ddf5-2900-f88e-45ef0e208445,friend,trait5,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4900-56d7-e630-c68c-e1b00884c10c,friend,trait3,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af78ed-e729-99c8-e7c8-665686c72da6,friend,trait2,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait1,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4787-166e-0a03-bb07-484034c33cce,friend,trait1,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478c-36f6-b350-6088-0d35cc89e022,friend,trait1,HONEST,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48a2-4d41-07cc-4e1e-7bb430782130,friend,trait1,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6cea-3aaa-15a3-eab8-069c38ba948b,friend,trait1,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a47-ceb4-1d30-2ff7-8c98eeab993a,specific,trait3,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait2,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait2,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait9,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait3,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait1,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait1,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait2,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait8,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e05-15aa-ab38-71a3-027a1fb7268b,general,trait2,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait5,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait10,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait4,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait7,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af682b-12a9-9121-94ca-1c4d836f0d90,general,trait4,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait1,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait2,Honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-b4a8-427c-27c2-2b9893b1ebc2,general,trait3,honest,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47b0-9021-5022-768d-b91f29f7a5d8,coworker,trait1,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait1,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait5,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4858-6385-24f6-cbfa-3951c3e6b642,neighbor,trait2,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ad2-502a-1603-4c71-e3fd4aee61a4,neighbor,trait2,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ce4-90a9-1a0e-cd0a-09a2f6bb2d29,friend,trait1,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait3,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait3,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait1,Honest ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af62a6-e43c-4461-df5c-880fbbcac107,neighbor,trait4,Honestly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af60ad-8ee3-1b44-5494-ec3243f36881,friend,trait2,Honestly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4826-4157-e565-a4fd-ae67be5a4d6a,friend,trait1,Honestly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47c8-3d84-1f92-5d79-7317f7db239a,coworker,trait3,honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4848-bd3d-ae0f-b085-08b6fa05fa9b,coworker,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ef5-9aa8-d462-da75-44f4c1634b9d,coworker,trait1,honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af633e-7784-78ee-e986-1b46b65d255b,coworker,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af68ee-0956-f11d-c535-2a45265fc6cc,coworker,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6f1b-4fc9-7dde-43fb-07d110a9425e,coworker,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7667-a5e0-f07b-f4fe-54745ef5641d,neighbor,trait2,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c3-9044-43dc-325d-4b64f5477846,neighbor,trait1,honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48ac-2bd4-e57a-753c-0a9a50f83e6a,friend,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c87-ffd4-4bc2-b6bf-0820b93505fc,friend,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5e5a-f6ad-afd1-faed-6de97222fb61,friend,trait4,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait2,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait2,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait8,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait2,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait1,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait2,honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait2,honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af73b4-c7ec-8d80-23b4-a247a93ef43c,general,trait3,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-7db2-3ed8-ab14-e7ef2557e318,general,trait1,honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6964-fdec-ee32-620b-fe4e0e72fe94,general,trait5,Honesty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7aa5-84fb-70b2-ffe9-17e1b494a5be,coworker,trait1,Honesty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af686d-9521-0c2c-3eb7-262d5e1e8988,coworker,trait1,Honesty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4855-b939-85b7-d1fe-233895d6abe5,friend,trait1,Honesty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4db8-44c0-88ed-4bed-db398a99a520,friend,trait1,Honesty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait1,Honesty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5cc3-c47b-9bb3-ac87-9b1ad15ebfe7,general,trait3,Honesty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a1a-4513-4451-3f8c-cebc98408e0b,coworker,trait6,honor,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait8,hopeful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6479-44b3-38e7-66ee-901ee4dca923,neighbor,trait6,Hopeful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait6,Hopeful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait6,Hopeful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait2,Hopwful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7d60-a27d-e72c-e7fb-9b016fb33657,specific,trait3,House ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait5,How aware they are.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7e-0253-78d6-fd9b-66ff30f7a5fa,neighbor,trait2,How loud they are,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait8,How many people living there,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af68a1-d76c-2d72-8a85-45e436c82c3e,neighbor,trait4,How many people will be living there?,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af68a1-d76c-2d72-8a85-45e436c82c3e,neighbor,trait2,How old are they?,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait5,Huge,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait9,Huggable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait1,Human,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait1,human,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait8,Human,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait1,Human,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af6ec5-4f5d-8076-2769-7be6201e982d,friend,trait5,Humble,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait6,humble,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait7,Humble,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait2,Humble,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait3,Humble ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af735e-4af2-448d-28e9-91accc55a0ba,friend,trait2,Humbleness ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7586-09d7-d31b-9a1a-f3006a0f9f2f,neighbor,trait1,Humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4db8-44c0-88ed-4bed-db398a99a520,friend,trait5,Humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait6,Humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4869-d30b-4fd7-6d18-6fd76c4cc0c3,friend,trait3,Humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait7,Humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6964-fdec-ee32-620b-fe4e0e72fe94,general,trait2,Humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait1,Humor ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait1,Humorous,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait8,Humorous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait3,Humorous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait10,Hungry,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait9,Husband ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait7,Hustler ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait8,hustlers,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait7,Hygienic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait9,I ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait2,I am a leader not a follower,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait8,I dunno others,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af47dd-8767-ebc2-2012-2e462ad7294d,neighbor,trait3,i like to talk to my neighbors,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af725e-6579-d9a4-8b7e-1142de686b63,neighbor,trait4,I will not want to live around somebody who is racist .,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af725e-6579-d9a4-8b7e-1142de686b63,neighbor,trait2,I would not want to have to worry about if my neighbors steal ( like packages ),0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait8,I’m ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait7,Idealist,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-c98b-950c-33d1-8e3b7c26017e,friend,trait3,ideas,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af6e59-f057-e158-8d21-faecc0dd9b60,neighbor,trait1,If they are loud,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait1,If they go to church ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait4,If they have family ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait7,If they're kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait4,If they're woke. ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait5,Impatient ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait9,Inclusive,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait10,Indecisive ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6f1b-4fc9-7dde-43fb-07d110a9425e,coworker,trait2,Independence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af635c-a42a-87d7-d73c-fd9eb3ebac9c,general,trait1,Independent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6354-5de1-b523-5d6f-3110cda30e73,specific,trait3,independent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait6,Independent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait9,Indifferent sibling,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait5,Insane,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait7,Insomnia ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait10,Inspire others in various activities in their life,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6df1-2fac-a26e-323b-c74ab6ec9476,coworker,trait2,Integrity,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47c8-3d84-1f92-5d79-7317f7db239a,coworker,trait1,integrity,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait2,Integrity,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait9,integrity,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af686d-9521-0c2c-3eb7-262d5e1e8988,coworker,trait2,Integrity ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7667-a5e0-f07b-f4fe-54745ef5641d,neighbor,trait3,Integrity ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait2,Integrity ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait2,Integrity ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48ac-2bd4-e57a-753c-0a9a50f83e6a,friend,trait5,Inteligence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4830-acb0-b4d8-a182-764f77eb5a6c,friend,trait5,inteligent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6983-12bf-c908-ad91-a58fe2d192df,specific,trait3,intellectual,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait2,Intelligence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait1,Intelligence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait2,Intelligence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4756-02f6-fe50-223f-5a76f1181a9e,general,trait2,Intelligence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af682b-12a9-9121-94ca-1c4d836f0d90,general,trait1,Intelligence ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4848-bd3d-ae0f-b085-08b6fa05fa9b,coworker,trait5,Intelligent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d5-d253-b1e5-d37e-6c5e4c71c0c1,coworker,trait6,intelligent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait3,Intelligent,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait10,Intelligent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4db8-44c0-88ed-4bed-db398a99a520,friend,trait6,Intelligent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait5,Intelligent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait5,Intelligent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait2,Intelligent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait7,Intelligent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait6,Intelligent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ea4-08f4-2c0b-de7a-c27c16e9c4ec,neighbor,trait1,Interest in loud music,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait7,Interest in the environment ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait9,Interested,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait5,Interesting ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait7,Interesting hobby ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4967-ce41-1144-2e16-05be4e3c9328,neighbor,trait3,Interests,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5ff8-a5ee-243c-b49a-9e24f4e85d95,friend,trait5,interests or hobbies  known of,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait7,Introspective ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c09-08a3-f425-e964-8804fe5bbfd3,specific,trait2,Introvert,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait3,Introvert,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait7,introvert ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait4,Introvert ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait3,Introverted ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait7,Inventive,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait9,irish,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait1,Job,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af7d60-a27d-e72c-e7fb-9b016fb33657,specific,trait2,Job,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait9,Justice minded,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af7d60-a27d-e72c-e7fb-9b016fb33657,specific,trait4,Kids ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait1,kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4848-bd3d-ae0f-b085-08b6fa05fa9b,coworker,trait4,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait8,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4831-cf25-f482-4a71-6b189cddd1ec,coworker,trait2,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4910-9e46-3416-aad8-e97bb1b61ad0,neighbor,trait3,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af486a-b3a2-906a-8745-f1ce41c51cfe,neighbor,trait1,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4900-56d7-e630-c68c-e1b00884c10c,friend,trait2,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-c98b-950c-33d1-8e3b7c26017e,friend,trait4,kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-4a29-2493-e176-097f7a869d23,friend,trait1,kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait5,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait7,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4830-acb0-b4d8-a182-764f77eb5a6c,friend,trait4,kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait9,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait3,kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait2,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait5,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6c74-63da-b379-51ab-f9234047de3c,specific,trait2,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait6,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait1,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f3-bc71-2b6a-14f3-165e8efeeb69,specific,trait1,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ac4-c9f2-b9cd-d214-04f7b7f4d639,specific,trait1,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait1,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait1,kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait9,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait4,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait2,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait4,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ee3-8098-15c3-7de0-006aaa932325,specific,trait4,kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait2,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait5,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait1,KIND,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait1,kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait8,Kind,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6569-177f-8078-2cd1-58dea16f9561,coworker,trait2,Kind ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af60ad-8ee3-1b44-5494-ec3243f36881,friend,trait4,Kind ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48b5-ddf5-2900-f88e-45ef0e208445,friend,trait4,kind ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6b19-0eff-2013-27e2-2a53c8d47f63,specific,trait3,Kind ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait1,Kind ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait1,Kind person ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait10,Kind to animals and strangers ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d69-c8ec-d859-fd32-f0368ec20a08,coworker,trait3,Kindness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7667-a5e0-f07b-f4fe-54745ef5641d,neighbor,trait5,Kindness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4aa3-00c5-3c68-09ba-cfb111a6ebb4,neighbor,trait2,Kindness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5eec-2e74-d863-3989-96a1d37385ec,friend,trait3,kindness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4892-0026-d304-14c6-bf0ee0ca010e,friend,trait1,Kindness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5cc3-c47b-9bb3-ac87-9b1ad15ebfe7,general,trait1,Kindness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4826-4157-e565-a4fd-ae67be5a4d6a,friend,trait2,Kindness ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait3,Kindness ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait1,Kindness ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait5,Knowledgeable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af64e5-5950-df6c-c07d-445f2f9faeb1,neighbor,trait6,Knowledgeable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait4,Knowledgeable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait10,Laid back,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait8,Laid Back,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af73b4-c7ec-8d80-23b4-a247a93ef43c,general,trait2,Laughter,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af481a-7249-7534-93b0-49ce135fbd34,neighbor,trait4,Law-abiding,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait2,Laziness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait9,Lazy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait4,Leader,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait8,Leader,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait6,Leader,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait8,Leader,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait3,Leader,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait4,learning,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait9,Liberal ,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait2,life long learner ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait4,Lifestyle ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait1,Like edm,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait9,Like foid,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait4,Like math,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait6,Like to travrl,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4865-fb4a-80c6-1b74-58b375ad57cb,coworker,trait2,Likeable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6188-c51a-86a9-0eb4-35d866c2833e,coworker,trait1,Likeable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476e-1998-e3e3-3e3e-00ee8108d2c5,coworker,trait2,likes to be co-operative,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait6,Likes to read ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af6f1b-4fc9-7dde-43fb-07d110a9425e,coworker,trait6,Listener,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4786-cf86-1aa9-3354-14ff79cd925d,friend,trait3,listener,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait6,Listening to music ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait5,Literature,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait7,little,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af674b-3fd3-3039-10ee-b1c4c72ddae0,friend,trait3,Location where they grew up,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait9,Logical,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af682b-12a9-9121-94ca-1c4d836f0d90,general,trait3,Logical,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait10,Lonely,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait8,Loner,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait2,Long,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af479b-c98b-950c-33d1-8e3b7c26017e,friend,trait1,looks,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4aa3-00c5-3c68-09ba-cfb111a6ebb4,neighbor,trait1,Loud,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476a-6ca0-dd7c-3ec6-b95c3b64952f,neighbor,trait2,Loud,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait5,Lovable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af66a1-4702-ba87-bb2c-ea77a9c6bd9f,specific,trait3,Lovable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4892-0026-d304-14c6-bf0ee0ca010e,friend,trait3,Love,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait4,Love,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait10,Love dogs,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5cc3-c47b-9bb3-ac87-9b1ad15ebfe7,general,trait5,Loveable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af64e5-5950-df6c-c07d-445f2f9faeb1,neighbor,trait3,Loves art ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4847-4a29-2493-e176-097f7a869d23,friend,trait2,loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait6,Loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ce4-90a9-1a0e-cd0a-09a2f6bb2d29,friend,trait4,Loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d6f-738c-4331-df24-6981b9031770,specific,trait3,loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait4,loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait9,Loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait7,loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait7,Loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait5,Loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait4,Loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait8,loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait9,Loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait7,Loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait8,loving,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait2,Loving ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait4,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4def-1b72-7648-6c97-8043502e8184,coworker,trait2,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4900-56d7-e630-c68c-e1b00884c10c,friend,trait1,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af746c-18bd-f527-bc2e-143df62e5a31,friend,trait1,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af78ed-e729-99c8-e7c8-665686c72da6,friend,trait1,loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5e73-fbe5-2130-baa9-59e508cca2a2,friend,trait1,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait3,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6c74-63da-b379-51ab-f9234047de3c,specific,trait3,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait1,loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait6,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait8,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait5,loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait9,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait4,loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait1,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait10,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait5,Loyal,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7de2-33f4-8900-080f-d8d5ff21f178,coworker,trait3,Loyal ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait9,Loyal ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4826-4157-e565-a4fd-ae67be5a4d6a,friend,trait4,Loyal ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait8,Loyal ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait1,loyal ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6b19-0eff-2013-27e2-2a53c8d47f63,specific,trait1,Loyal ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait1,Loyal ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a1a-4513-4451-3f8c-cebc98408e0b,coworker,trait4,loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ef5-9aa8-d462-da75-44f4c1634b9d,coworker,trait2,loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af633e-7784-78ee-e986-1b46b65d255b,coworker,trait2,Loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7667-a5e0-f07b-f4fe-54745ef5641d,neighbor,trait1,Loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af672e-bbd6-5603-3cef-abde33887508,friend,trait2,Loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4aa2-e012-ac94-64ac-20847af53f8e,friend,trait1,loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5eec-2e74-d863-3989-96a1d37385ec,friend,trait1,loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48b5-ddf5-2900-f88e-45ef0e208445,friend,trait1,loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait3,Loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c87-ffd4-4bc2-b6bf-0820b93505fc,friend,trait3,Loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait1,Loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait1,Loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5cc3-c47b-9bb3-ac87-9b1ad15ebfe7,general,trait2,Loyalty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4786-cf86-1aa9-3354-14ff79cd925d,friend,trait1,loyalty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af60ad-8ee3-1b44-5494-ec3243f36881,friend,trait1,Loyalty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4db8-44c0-88ed-4bed-db398a99a520,friend,trait2,Loyalty ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait5,Lucky in love,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait1,male,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait2,male,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait1,male,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af61ab-4a29-5b50-4712-668849c136f5,general,trait1,man,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait5,Man of integrity ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7aa5-84fb-70b2-ffe9-17e1b494a5be,coworker,trait7,Mannerisms,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait6,Marital status,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af5ff8-a5ee-243c-b49a-9e24f4e85d95,friend,trait3,maritsal status,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait6,married,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4cc1-c4f2-27a4-6f31-83ae7de1044a,friend,trait1,Mature,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait4,Mature,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-7db2-3ed8-ab14-e7ef2557e318,general,trait3,mentally stable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait10,Military,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af46c3-9044-43dc-325d-4b64f5477846,neighbor,trait6,military service,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait6,Military Service,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait1,Mind they business,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe6a3-aa8c-22fb-0369-29038f03de0f,general,trait3,Money,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait4,moral,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait3,Morality,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478c-36f6-b350-6088-0d35cc89e022,friend,trait3,MORALS,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait5,Mother,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait3,Mother,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait1,Mother,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait4,Mother ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4831-cf25-f482-4a71-6b189cddd1ec,coworker,trait5,Motivated,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7d2f-5785-033f-adc9-75505ba79806,general,trait1,motivated,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait10,Multi-task ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait8,Music,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait9,Musical,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7c93-0867-27e9-ac5a-6d2d9f2ce647,specific,trait1,My family ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47c7-7964-6b54-a89f-4501d75410af,friend,trait3,naturalist,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7385-038d-4139-479f-aefed21d11c4,general,trait6,Nature,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait6,Nature loving,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af47dd-8767-ebc2-2012-2e462ad7294d,neighbor,trait4,neat,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait8,Need to educate ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait7,nerdyness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait9,Neutral,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait10,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c78-be40-b598-16a4-924eac749f8a,coworker,trait1,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7aa5-84fb-70b2-ffe9-17e1b494a5be,coworker,trait3,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47b0-9021-5022-768d-b91f29f7a5d8,coworker,trait2,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait5,nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64aff1ac-8022-931b-fc2f-5151c185192a,neighbor,trait2,nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af481a-7249-7534-93b0-49ce135fbd34,neighbor,trait1,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait1,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5cc7-3a86-7e3a-8a07-9d9dde0961e8,neighbor,trait5,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6479-44b3-38e7-66ee-901ee4dca923,neighbor,trait7,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b9c-8085-748a-3af4-8a320de06c02,neighbor,trait3,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ad2-502a-1603-4c71-e3fd4aee61a4,neighbor,trait5,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4cc1-c4f2-27a4-6f31-83ae7de1044a,friend,trait4,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait10,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait3,nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait10,nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait3,nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait4,Nice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6569-177f-8078-2cd1-58dea16f9561,coworker,trait4,Nice ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c42-9798-9947-aa2b-842339378946,neighbor,trait2,Nice ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4839-121f-7653-a558-26c1978168e8,neighbor,trait1,Nice ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait6,Nice ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait1,Nice ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af725e-6579-d9a4-8b7e-1142de686b63,neighbor,trait1,"Nice I would want me and my neighbors to get along , very good .",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47b8-8c71-c408-8075-b411b7f5b2b1,neighbor,trait4,No barking dogs,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af7de2-33f4-8900-080f-d8d5ff21f178,coworker,trait5,No egos ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait10,no idea,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af476f-a555-ba2f-13d7-16d6d504609a,neighbor,trait2,No kids ,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af47c7-7964-6b54-a89f-4501d75410af,friend,trait8,non-materialistic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af696c-86ba-0996-dc27-9b4360bc4461,coworker,trait2,Nonchalant,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait7,None ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait10,Nonjudgemental,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait8,nonselfish,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f9-f7eb-daee-8857-07a893754860,coworker,trait2,Not a gossip,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait7,Not a people person,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait7,Not annoying,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait8,Not bitchy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait9,Not bossy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6f1b-4fc9-7dde-43fb-07d110a9425e,coworker,trait4,Not introverted,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47dd-1e3d-34b9-a055-1020e8ff1d67,friend,trait3,not judgemental,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af64cd-53a9-53f9-375f-f8ad2c08a199,coworker,trait3,Not lazy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait3,not negative,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4865-fb4a-80c6-1b74-58b375ad57cb,coworker,trait3,Not overly friendly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47dd-8767-ebc2-2012-2e462ad7294d,neighbor,trait1,not too much noise late at night,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait6,Nothing ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af476a-6ca0-dd7c-3ec6-b95c3b64952f,neighbor,trait5,Number of people ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait8,obnoxious,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ff8-a5ee-243c-b49a-9e24f4e85d95,friend,trait2,occupation,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait7,Occupation,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait7,Ok ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait10,Ok ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait8,Old ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait8,Old fashion,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476f-a555-ba2f-13d7-16d6d504609a,neighbor,trait3,Older,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait4,older,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af5c78-be40-b598-16a4-924eac749f8a,coworker,trait2,On time,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bb7-138c-25aa-ad1c-22d04c36cf57,coworker,trait3,On time,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48a1-f175-35c7-8317-98d67535c944,neighbor,trait4,On time,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait7,open minded,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait8,Open minded,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49d1-0ca0-cccc-0000-8c23bf4f212d,coworker,trait3,open-minded,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47c7-7964-6b54-a89f-4501d75410af,friend,trait5,open-minded,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6df1-2fac-a26e-323b-c74ab6ec9476,coworker,trait1,Open-mindedness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait2,Openmindedness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6ec5-4f5d-8076-2769-7be6201e982d,friend,trait2,Opinionated,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait3,opinionated ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait9,Opionated ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait8,Optimistic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait5,Optimistic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait7,Organized,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait5,Organized,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72a9-dc05-8820-3911-c034315296e6,coworker,trait5,Organized ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6c74-63da-b379-51ab-f9234047de3c,specific,trait1,Organized ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4946-214b-1baf-c6ce-a405b8b4e24c,general,trait7,outdoormen,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5e5a-f6ad-afd1-faed-6de97222fb61,friend,trait3,Outgoing,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait8,Outgoing,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait5,overweight,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait9,pasionet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait8,Passionate ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6df1-2fac-a26e-323b-c74ab6ec9476,coworker,trait5,Patience,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait1,Patience,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait5,Patience,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait3,Patience,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5eec-2e74-d863-3989-96a1d37385ec,friend,trait5,patience ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait5,Patience ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4848-bd3d-ae0f-b085-08b6fa05fa9b,coworker,trait3,Patient,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4912-88d5-6faf-f9ec-6257b133c62e,general,trait5,Patient,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c47-50c5-7570-1ea1-70d83e5e7d23,specific,trait4,Patient ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait10,patriotic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d9-f7f6-d1e3-43e3-8afcfab95087,coworker,trait1,Pay,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait6,Peace,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47c7-7964-6b54-a89f-4501d75410af,friend,trait2,peaceful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c68-7e23-b5b1-12d7-d1475541e9cf,specific,trait10,Peaceful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63f7-55b4-ea5e-6b0f-09e58a5da81a,specific,trait10,Peaceful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7226-044e-72fd-3068-75f88bada5be,specific,trait10,People pleaser,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait6,Persistent ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f7e-b7d8-f8f8-f373-3d5a4f4b6096,neighbor,trait1,personality,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4aa2-e012-ac94-64ac-20847af53f8e,friend,trait3,personality,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478c-36f6-b350-6088-0d35cc89e022,friend,trait2,PERSONALITY,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af60ad-8ee3-1b44-5494-ec3243f36881,friend,trait3,Personality ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4797-6a54-04b7-2231-e1601df0f20c,general,trait5,Personality ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait5,Pets,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af476a-6ca0-dd7c-3ec6-b95c3b64952f,neighbor,trait4,Pets,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af7d60-a27d-e72c-e7fb-9b016fb33657,specific,trait6,Pets,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait3,Pets,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af7067-2fdf-5ff5-bfa4-5033fdba7503,neighbor,trait8,Pets ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait10,Podcast junkie,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af7586-09d7-d31b-9a1a-f3006a0f9f2f,neighbor,trait4,Polite,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b9c-8085-748a-3af4-8a320de06c02,neighbor,trait2,Polite ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait9,Politics,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait5,politics,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af6354-5de1-b523-5d6f-3110cda30e73,specific,trait2,positive attitude ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait9,Practical ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait5,Practical ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6df1-2fac-a26e-323b-c74ab6ec9476,coworker,trait3,Preferably women,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait3,Pretty,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait6,pretty,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait8,Pretty,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait8,pretty,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait5,pretty,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af6354-5de1-b523-5d6f-3110cda30e73,specific,trait1,pretty eyes ,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af7586-09d7-d31b-9a1a-f3006a0f9f2f,neighbor,trait2,Privacy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5da0-2ac0-88e0-8cbb-b2dbcae777d8,neighbor,trait3,Privacy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af489f-a59b-e67a-fb54-8142697eaa2b,general,trait1,Private,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4879-eb36-b307-41e9-12663d95ba72,coworker,trait3,Proactive.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait9,Problem solver,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4967-ce41-1144-2e16-05be4e3c9328,neighbor,trait4,Profession,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af49d1-0ca0-cccc-0000-8c23bf4f212d,coworker,trait1,professionalism,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d5-d253-b1e5-d37e-6c5e4c71c0c1,coworker,trait5,proficient,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7de2-33f4-8900-080f-d8d5ff21f178,coworker,trait4,Progressive ,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af72a9-dc05-8820-3911-c034315296e6,coworker,trait3,Punctual ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait2,punctual ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait5,Punctual ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af633e-7784-78ee-e986-1b46b65d255b,coworker,trait3,Punctuality ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6cea-3aaa-15a3-eab8-069c38ba948b,friend,trait3,Quality ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af481a-b30b-1386-35db-53f82f3c5272,neighbor,trait1,quiet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64aff1ac-8022-931b-fc2f-5151c185192a,neighbor,trait1,quiet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af486a-b3a2-906a-8745-f1ce41c51cfe,neighbor,trait3,Quiet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4810-a94e-d38b-91f9-2191aa0ac1d7,neighbor,trait10,Quiet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4858-6385-24f6-cbfa-3951c3e6b642,neighbor,trait3,Quiet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait7,Quiet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait9,quiet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait6,QUIET,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c42-9798-9947-aa2b-842339378946,neighbor,trait1,Quiet ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait8,Quiet ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47b8-8c71-c408-8075-b411b7f5b2b1,neighbor,trait2,Quiet people ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7889-f83a-b717-b507-260ab6b7820b,specific,trait1,"Quiet, craftswoman, hardworker, happy, extroverted, trustful, ",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af7586-09d7-d31b-9a1a-f3006a0f9f2f,neighbor,trait3,Quietness ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5da0-2ac0-88e0-8cbb-b2dbcae777d8,neighbor,trait4,Quitness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4967-ce41-1144-2e16-05be4e3c9328,neighbor,trait2,Race,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af654f-2bfa-7795-6da7-b2be8593d728,neighbor,trait2,race,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait10,Race,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af4797-6a54-04b7-2231-e1601df0f20c,general,trait1,Race,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait3,race,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait6,Raw,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait10,Reader,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5e73-fbe5-2130-baa9-59e508cca2a2,friend,trait2,Real,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait10,Redundant ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait8,reflective,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49d1-0ca0-cccc-0000-8c23bf4f212d,coworker,trait2,relaxed,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479f-8b59-4bb6-99e4-4f13539d2fe1,specific,trait7,Relaxed,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7c93-0867-27e9-ac5a-6d2d9f2ce647,specific,trait2,Relegion,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af47c8-3d84-1f92-5d79-7317f7db239a,coworker,trait4,reliability,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait4,Reliability,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af64cd-53a9-53f9-375f-f8ad2c08a199,coworker,trait2,Reliable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait3,Reliable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait8,reliable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47d5-d253-b1e5-d37e-6c5e4c71c0c1,coworker,trait2,reliable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait5,reliable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6569-177f-8078-2cd1-58dea16f9561,coworker,trait6,Reliable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait3,Reliable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait5,Reliable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait5,Reliable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait8,Religion,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait2,RELIGIOUS,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af4810-b4a8-427c-27c2-2b9893b1ebc2,general,trait5,religious,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64afb59f-b52a-a912-6fed-f3298174b94a,coworker,trait10,Reserved,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait10,Reserved,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait9,Resilient ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait2,Resourceful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait9,Resourceful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait6,Respecful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a1a-4513-4451-3f8c-cebc98408e0b,coworker,trait5,respect,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d69-c8ec-d859-fd32-f0368ec20a08,coworker,trait1,Respect,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait10,Respect,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait5,respectable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4879-eb36-b307-41e9-12663d95ba72,coworker,trait6,Respectful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait1,respectful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5cc7-3a86-7e3a-8a07-9d9dde0961e8,neighbor,trait6,Respectful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait4,respectful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait9,Respectful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a0c-b70e-52f7-2f15-648185412c3a,neighbor,trait2,Respectful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4858-6385-24f6-cbfa-3951c3e6b642,neighbor,trait5,Respectful of all people,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d69-c8ec-d859-fd32-f0368ec20a08,coworker,trait2,Responsibility ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait6,Responsibility ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait9,responsible,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af481a-b30b-1386-35db-53f82f3c5272,neighbor,trait3,responsible,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6569-177f-8078-2cd1-58dea16f9561,coworker,trait1,Responsible ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a0c-b70e-52f7-2f15-648185412c3a,neighbor,trait6,Responsible ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait10,responsible ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4879-eb36-b307-41e9-12663d95ba72,coworker,trait2,Responsible.,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6569-177f-8078-2cd1-58dea16f9561,coworker,trait3,Responsive ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait4,Retired,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait2,retired,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+64af62a6-e43c-4461-df5c-880fbbcac107,neighbor,trait1,Retired ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait8,rights,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af682b-12a9-9121-94ca-1c4d836f0d90,general,trait5,Romantic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait8,Sad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait8,Sad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait6,safety,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dc5-e019-18de-cf30-bb140643d009,friend,trait8,Same interest,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af6ec5-4f5d-8076-2769-7be6201e982d,friend,trait4,Sarcastic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait6,sarcastic,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait6,Sarcastic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait1,Sassy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4787-166e-0a03-bb07-484034c33cce,friend,trait2,scence of humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af635c-a42a-87d7-d73c-fd9eb3ebac9c,general,trait3,Science,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait6,Self aware,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait8,Self-conscious ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait4,selfless ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6188-c51a-86a9-0eb4-35d866c2833e,coworker,trait4,Sense of humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47c7-7964-6b54-a89f-4501d75410af,friend,trait4,sense of humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b16-bb7a-ceda-7d5f-03086a7c5c1f,friend,trait4,Sense of humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait10,Sense of Humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4880-e170-b88a-887c-b8ca98798967,general,trait3,Sense of humor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4828-5056-4ef9-950f-c4263a288a74,specific,trait1,Sense of humor ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait5,Sense of humor ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait6,Sensible,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait7,Sensible ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait5,Serenity,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait9,Serving,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait3,Sex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af6c3a-1d1f-445c-e869-9607e3bb580b,general,trait4,sex,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af5ff8-a5ee-243c-b49a-9e24f4e85d95,friend,trait1,Sex male female,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4769-80af-abe8-653f-012b04409368,specific,trait9,Sexual orientation,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait5,Sexy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4b16-bb7a-ceda-7d5f-03086a7c5c1f,friend,trait1,Shared interest,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4b16-bb7a-ceda-7d5f-03086a7c5c1f,friend,trait3,Shared political leanings,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af486a-b3a2-906a-8745-f1ce41c51cfe,neighbor,trait5,Shares my interests ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af47d9-f7f6-d1e3-43e3-8afcfab95087,coworker,trait2,Shifts,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait1,Short,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af61ab-4a29-5b50-4712-668849c136f5,general,trait3,shy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait8,shy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482b-98b0-bc23-797b-0d39bb876a61,general,trait10,Sidelined ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af489f-a59b-e67a-fb54-8142697eaa2b,general,trait3,Silence,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait9,Silly,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f3-bc71-2b6a-14f3-165e8efeeb69,specific,trait3,Silly ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48cf-7e34-51b2-3028-bc8cad1ecac4,coworker,trait3,Similar age,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4787-166e-0a03-bb07-484034c33cce,friend,trait3,similar interests,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af48cf-7e34-51b2-3028-bc8cad1ecac4,coworker,trait2,Similar personality and interests ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47f6-4ba4-18db-6d4b-2395820dca81,friend,trait2,Similar schedules,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af6857-291d-d05c-e0c6-4bbb519be8b8,friend,trait1,similar views,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af4810-b4a8-427c-27c2-2b9893b1ebc2,general,trait4,sincere,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait7,Sister,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af4a1a-4513-4451-3f8c-cebc98408e0b,coworker,trait1,skills,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af5d7e-0253-78d6-fd9b-66ff30f7a5fa,neighbor,trait3,Sleep schedules,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4863-2241-0c3f-9b4f-20da57b56a2e,specific,trait7,Sleepy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait1,Small,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait6,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af487b-7f26-8260-2fb9-a4f5c1be764b,coworker,trait5,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d92-7309-83d7-78a1-fe90ca4a3c4e,coworker,trait4,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait2,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4def-1b72-7648-6c97-8043502e8184,coworker,trait3,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4831-cf25-f482-4a71-6b189cddd1ec,coworker,trait4,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait6,smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait7,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48ac-2bd4-e57a-753c-0a9a50f83e6a,friend,trait3,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6cea-3aaa-15a3-eab8-069c38ba948b,friend,trait2,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d6f-738c-4331-df24-6981b9031770,specific,trait5,smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a8e-a067-f5fe-0c78-054182d8aaee,specific,trait3,smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6310-932c-8f52-4439-c809b0c88e35,specific,trait2,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4811-d11a-6391-ae41-c75313a0aa42,specific,trait3,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f3-bc71-2b6a-14f3-165e8efeeb69,specific,trait2,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ac4-c9f2-b9cd-d214-04f7b7f4d639,specific,trait4,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait3,smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait3,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6d00-2801-d832-ad38-2c8cfccf7d58,general,trait1,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait9,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4740-c673-062a-7f23-dce5d2723c30,general,trait7,SMART,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait10,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait8,Smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait10,smart,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72a9-dc05-8820-3911-c034315296e6,coworker,trait6,Smart ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af486a-b3a2-906a-8745-f1ce41c51cfe,neighbor,trait4,Smart ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait3,Smart ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a1b-503c-23de-8614-b7941e01a442,coworker,trait1,Smarts,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af73b4-c7ec-8d80-23b4-a247a93ef43c,general,trait1,Smile ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait1,Smiles,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af66a1-4702-ba87-bb2c-ea77a9c6bd9f,specific,trait2,Snart,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait8,Sneaky,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait6,So ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait4,sober,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5ea4-08f4-2c0b-de7a-c27c16e9c4ec,neighbor,trait3,Sociability,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af735e-4af2-448d-28e9-91accc55a0ba,friend,trait1,Sociable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af64e5-5950-df6c-c07d-445f2f9faeb1,neighbor,trait7,Social,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c4c-725e-6f0d-07cc-4c9c167835e4,general,trait6,Somewhat wise,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d9b-1136-2a7c-f84d-b54b32f3f859,specific,trait3,Southerner,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait9,Special education teacher assistant ,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait1,spiritual,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait10,Spiritual ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait3,Spiritual ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af49f3-2d06-c7b7-d3dd-b2ea7095dd36,general,trait2,Spiritual ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait2,Spiritual ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af7385-038d-4139-479f-aefed21d11c4,general,trait4,Spirituality ,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait6,spontaneous ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait7,Sports,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait3,sports,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait7,sports fan,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64afd3e6-e247-e7bf-8a7c-32199e60e5a8,specific,trait10,sporty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f42-016f-64f8-8eae-8639295e2cc4,coworker,trait2,Stability ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4728-d1a4-de80-f402-d30f21ffcb20,specific,trait7,Stable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6964-fdec-ee32-620b-fe4e0e72fe94,general,trait4,Strength ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait1,Strong,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6dcd-b15d-25ba-769f-e44302e35291,specific,trait6,Strong,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4862-3d7c-cfa7-ad92-e8b852f06ce8,general,trait5,Strong,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait4,Strong ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f6-4ba4-18db-6d4b-2395820dca81,friend,trait3,Strong Christian values,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+64af72d2-7afb-03e0-6b33-48e4a0cc1fb4,specific,trait5,Stubborn ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait8,stubborn ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af624a-6d51-e8b9-fa17-147338f28514,general,trait1,Style,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af63ff-8941-7d2a-ceff-bc53d7eadd5e,coworker,trait7,stylish,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7385-038d-4139-479f-aefed21d11c4,general,trait2,Sunsets ,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af46c3-9044-43dc-325d-4b64f5477846,neighbor,trait8,superstitious,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6479-44b3-38e7-66ee-901ee4dca923,neighbor,trait4,Supportive,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4fdd-5286-ef64-df9e-d8fd3233673e,general,trait2,supportive,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait4,Survival,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5d6f-738c-4331-df24-6981b9031770,specific,trait1,sweet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait9,Sweet,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait10,talented,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ac4-c9f2-b9cd-d214-04f7b7f4d639,specific,trait2,Talkative ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4943-aa1a-6940-3f7e-0202f2efc3fb,coworker,trait8,Tall,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af6354-5de1-b523-5d6f-3110cda30e73,specific,trait4,tall,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af4afd-ba85-0446-47f1-d7b65f2712ab,specific,trait3,tall,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af47f0-c3a1-c5b2-9f57-4566dd648c94,coworker,trait9,Teachable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7aa5-84fb-70b2-ffe9-17e1b494a5be,coworker,trait5,Team oriented,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af68ee-0956-f11d-c535-2a45265fc6cc,coworker,trait3,Team player,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f9-f7eb-daee-8857-07a893754860,coworker,trait3,Team player,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47b0-9021-5022-768d-b91f29f7a5d8,coworker,trait5,Team player ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a1b-503c-23de-8614-b7941e01a442,coworker,trait3,Team Work,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af635c-a42a-87d7-d73c-fd9eb3ebac9c,general,trait4,Technology,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af5e5a-f6ad-afd1-faed-6de97222fb61,friend,trait5,Teustworthiness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6857-291d-d05c-e0c6-4bbb519be8b8,friend,trait2,the friends they have,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64afe365-56e9-44a5-ea0b-98eb1b50875d,neighbor,trait2,the kind of work they do,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64afe365-56e9-44a5-ea0b-98eb1b50875d,neighbor,trait3,their interests,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af6857-291d-d05c-e0c6-4bbb519be8b8,friend,trait3,they how extroverted they are,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5059-6c35-7f09-95af-8e4899592afa,friend,trait7,thick,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af47f6-4ba4-18db-6d4b-2395820dca81,friend,trait1,Things in common,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait6,Thinker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af493c-ca5e-e646-b772-98a23e642ab9,specific,trait9,Thisissilly,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4859-0cef-fce3-77ec-a74be68b9944,general,trait2,Thoughtful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afdaaa-d3b6-2040-b715-e7fc28d6496f,general,trait2,thoughtful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait6,Thoughtful ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a1a-4513-4451-3f8c-cebc98408e0b,coworker,trait3,time managment,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait10,Time orientated,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af477e-6188-f2ce-d978-1b2bea37eec3,specific,trait9,Tired,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47c7-7964-6b54-a89f-4501d75410af,friend,trait6,tolerant,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait8,Tough,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4b60-4cff-4ab8-fa42-3fe6e7c3463e,general,trait2,Tough,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af479b-9b04-d530-34ca-d1f8af4bc3a1,general,trait4,Tough,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4db8-44c0-88ed-4bed-db398a99a520,friend,trait3,Traditional,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d7d-ae0b-3a4d-4f32-676278a40d64,friend,trait3,Traditional family values ,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4b6e-ae41-bb1d-b5d9-9f3046fd377e,neighbor,trait9,trappers,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af47da-9ef3-feab-bf2a-79620b670459,specific,trait7,Travel,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4a58-3b28-1e34-1ddb-e431fe77920c,general,trait10,travel,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af4993-9962-d8f5-306c-de7704f248c2,general,trait1,traveler ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af64cd-53a9-53f9-375f-f8ad2c08a199,coworker,trait1,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5e15-c51c-9a16-e0f0-23c67870a59b,coworker,trait1,trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a1a-4513-4451-3f8c-cebc98408e0b,coworker,trait2,trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4910-9e46-3416-aad8-e97bb1b61ad0,neighbor,trait1,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4786-cf86-1aa9-3354-14ff79cd925d,friend,trait4,trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48b5-ddf5-2900-f88e-45ef0e208445,friend,trait2,trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4855-b939-85b7-d1fe-233895d6abe5,friend,trait3,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af783d-846e-c206-a8c9-ca99f689f14d,friend,trait2,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5c87-ffd4-4bc2-b6bf-0820b93505fc,friend,trait2,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47df-7584-e7ef-48d1-6f9aeca862ac,friend,trait4,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af693a-9d3d-d09a-9b30-d9aa28bcc615,specific,trait1,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afb89a-418a-3c65-fdeb-568eeeb1a20b,specific,trait4,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47e8-8c43-df4d-b0d6-5fdf46567453,general,trait1,trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e05-15aa-ab38-71a3-027a1fb7268b,general,trait1,trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5cc3-c47b-9bb3-ac87-9b1ad15ebfe7,general,trait4,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6de3-4081-1d80-de1c-8bc83d3dca5a,general,trait2,Trust,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af672e-bbd6-5603-3cef-abde33887508,friend,trait1,Trust ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7b75-2458-e518-dbde-616d2f2a6799,specific,trait10,Trusting,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ad2-502a-1603-4c71-e3fd4aee61a4,neighbor,trait3,Trusting ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5d69-c8ec-d859-fd32-f0368ec20a08,coworker,trait4,Trustworthy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c3-9044-43dc-325d-4b64f5477846,neighbor,trait4,trustworthy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47c7-7964-6b54-a89f-4501d75410af,friend,trait1,trustworthy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6ec5-4f5d-8076-2769-7be6201e982d,friend,trait1,Trustworthy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af485b-72de-6d3f-42db-c272d348fdba,friend,trait8,Trustworthy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47fc-22de-6b90-b0cf-05a4031add86,specific,trait6,Trustworthy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af72a9-dc05-8820-3911-c034315296e6,coworker,trait1,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7aa5-84fb-70b2-ffe9-17e1b494a5be,coworker,trait2,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af50b5-7684-c37b-81f7-6df54c4ce2df,coworker,trait3,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48a1-f175-35c7-8317-98d67535c944,neighbor,trait1,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af746c-18bd-f527-bc2e-143df62e5a31,friend,trait3,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4a47-ceb4-1d30-2ff7-8c98eeab993a,specific,trait1,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6c74-63da-b379-51ab-f9234047de3c,specific,trait4,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4bfb-e9ae-f6bf-6e6d-a4f2366ae672,specific,trait2,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait9,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af65fc-fc24-7b1f-d7b2-027cbccc467f,general,trait1,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait6,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait8,Trustworthy ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48ac-2bd4-e57a-753c-0a9a50f83e6a,friend,trait2,Truthful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af46c9-11e3-8a07-0977-57f0daf977f2,specific,trait4,Ugly,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af479b-c98b-950c-33d1-8e3b7c26017e,friend,trait6,understanding,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5da0-2ac0-88e0-8cbb-b2dbcae777d8,neighbor,trait2,Understanding ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4847-b740-32c2-fc46-2919d29267cd,specific,trait4,Understanding ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47a6-78ce-a60c-2f13-070d80ab1052,specific,trait10,Understanding ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4780-304a-a72b-c347-08145c14aa0d,general,trait4,Understanding ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait10,unfulfilled,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f4f-4c59-6faa-ad7c-1634802c4f5e,general,trait6,Unhappy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af49f3-f897-5ce1-7d68-a5889548efef,specific,trait2,unhealthy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64afe526-99f9-a2e2-280a-4b82cac8c41c,specific,trait7,unique,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af48bc-1fda-67cd-822b-2685e8d4722f,neighbor,trait8,Unique ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4ac4-c9f2-b9cd-d214-04f7b7f4d639,specific,trait5,Unpredictable ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5f31-c372-0008-009b-728a71afe522,general,trait9,Useful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5dd4-0afc-9eb1-eaee-e9b45a8b5f7b,specific,trait7,volunteering,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af6b19-0eff-2013-27e2-2a53c8d47f63,specific,trait7,Warm,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af476e-7dfc-8217-488c-fffc58640357,neighbor,trait2,Watchful,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait5,Watching tv ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af7c93-0867-27e9-ac5a-6d2d9f2ce647,specific,trait4,Wealth,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+64af4823-6964-dd22-230c-838abd142e99,specific,trait10,Wear glasses,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64af5cc7-3a86-7e3a-8a07-9d9dde0961e8,neighbor,trait4,Welcoming arms,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af478e-958e-213d-a5df-c143fa742dce,friend,trait8,Well traveled ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait2,What and who they believe in.,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af6e59-f057-e158-8d21-faecc0dd9b60,neighbor,trait2,What are their sleeping habits,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait7,What do they do for fun ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait9,What do they like to eat ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af5003-90f3-db2c-f5f4-01fef7e9e0d7,neighbor,trait10,What kinds of music do they like ,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait3,What political party they support.,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+64af47f1-b313-b356-f9bb-63f26ba8ffd6,neighbor,trait1,Where they're from.,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af4794-0621-3036-464a-64588d30e10d,coworker,trait10,white,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af5eba-840c-cca9-31f6-d63a8536c231,specific,trait3,white,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+64af5c09-08a3-f425-e964-8804fe5bbfd3,specific,trait3,Wife,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait4,Wife,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+64af47dd-1e3d-34b9-a055-1020e8ff1d67,friend,trait4,willing to help you learn about your new location,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af5e15-c51c-9a16-e0f0-23c67870a59b,coworker,trait2,willing to work,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6a40-a465-e0c4-ad12-e3649865c889,coworker,trait2,Willing to work as a team ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait3,Willingness,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4e10-07c8-4b88-b526-f6cd841590f7,specific,trait9,Wise,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af482d-28b8-56ad-1875-3f26d175d91d,specific,trait6,Witty,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait1,Woman ,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+64af4ac5-c0e3-5c04-6c51-7033f0320dcd,coworker,trait1,Work ethic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af6188-c51a-86a9-0eb4-35d866c2833e,coworker,trait2,Work ethic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64afe667-ae7b-fdd3-dc3f-f7b8b5434a4b,coworker,trait2,work habits,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af47b8-8c71-c408-8075-b411b7f5b2b1,neighbor,trait1,Work same hours as I do,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64af4823-6964-dd22-230c-838abd142e99,specific,trait2,Workaholic ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait5,Worker,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af4c62-ec8c-e842-d1e0-bad5b962638a,general,trait3,Wotty,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+64af4948-2fe3-d7f9-fbb9-223d80418f62,coworker,trait9,Wouldn’t hurt someone to benefit themselves ,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+64af7078-341e-175e-647a-e6641b34fa27,general,trait9,Writer,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+64af5c09-08a3-f425-e964-8804fe5bbfd3,specific,trait4,Yogi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
