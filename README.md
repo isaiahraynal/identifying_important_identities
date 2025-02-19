@@ -1,5 +1,5 @@
 # identifying_important_identities
-Code and data for "Identifying Important Identities" article.
+Code and data for "Identifying Important Identities: An Exploratory Study of What Individuals Value in Themselves and Others" project.
 
 # Abstract
 
